@@ -1,0 +1,79 @@
+#corpo{
+    height:100%;
+    width:100%;
+    overflow: hidden;
+    margin: 0;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left: 0;
+    background-image: url("../Imagens/bg-background.jpg");
+    background-repeat: repeat;
+}
+
+
+
+#menu-quadro{
+    border-bottom:solid 5px;
+    border-bottom-color: gray;
+    border-top-color: #AAA08E;
+   // border-color: #AAA08E;
+    height:100%;
+    overflow:hidden;
+    background-color: #AAA08E;
+   
+}
+#hora{
+    float:right;
+    position:relative;
+    margin-top: 1.4%;
+    font-size: 40px;
+    color:darkblue;
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+}
+#logo{
+    float:left;
+    margin-left: 2%;
+}
+#quadro{
+    overflow: hidden;
+    border:solid 5px;
+    border-color:gray;
+    border-top-color: #AAA08E;
+    width:80%;
+    margin-left: 10%;
+    position:absolute;
+    top:0;
+    background-color: #FFEECC;
+    
+    
+
+    
+}
+#textslide{
+    color:black;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 80%;
+    
+}
+#horaCentral{
+    color:black;
+    font-size: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 80%;
+    
+}
+
